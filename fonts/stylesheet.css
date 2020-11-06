@@ -1,0 +1,68 @@
+@font-face {
+    font-family: 'Qanelas';
+    src: url('Qanelas-Bold.eot');
+    src: local('Qanelas Bold'), local('Qanelas-Bold'),
+        url('Qanelas-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Qanelas-Bold.woff') format('woff'),
+        url('Qanelas-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'Qanelas';
+    src: url('Qanelas-BoldItalic.eot');
+    src: local('Qanelas Bold Italic'), local('Qanelas-BoldItalic'),
+        url('Qanelas-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('Qanelas-BoldItalic.woff') format('woff'),
+        url('Qanelas-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Qanelas';
+    src: url('Qanelas-RegularItalic.eot');
+    src: local('Qanelas Regular Italic'), local('Qanelas-RegularItalic'),
+        url('Qanelas-RegularItalic.eot?#iefix') format('embedded-opentype'),
+        url('Qanelas-RegularItalic.woff') format('woff'),
+        url('Qanelas-RegularItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Qanelas';
+    src: url('Qanelas-Regular.eot');
+    src: local('Qanelas Regular'), local('Qanelas-Regular'),
+        url('Qanelas-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Qanelas-Regular.woff') format('woff'),
+        url('Qanelas-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Qanelas';
+    src: url('Qanelas-Medium.eot');
+    src: local('Qanelas Medium'), local('Qanelas-Medium'),
+        url('Qanelas-Medium.eot?#iefix') format('embedded-opentype'),
+        url('Qanelas-Medium.woff') format('woff'),
+        url('Qanelas-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'Qanelas';
+    src: url('Qanelas-MediumItalic.eot');
+    src: local('Qanelas Medium Italic'), local('Qanelas-MediumItalic'),
+        url('Qanelas-MediumItalic.eot?#iefix') format('embedded-opentype'),
+        url('Qanelas-MediumItalic.woff') format('woff'),
+        url('Qanelas-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+}
+
