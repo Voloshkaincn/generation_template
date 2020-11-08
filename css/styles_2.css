@@ -4852,8 +4852,7 @@ body.mob_or_tablet .image_crop_inner {
 
 .hesh__title {
 	font-weight: bold;
-	font-size: 28px;
-	line-height: 100px;
+	font-size: 24px;
 	text-transform: uppercase;
 	color: #D8E8EA;
 }
@@ -4932,6 +4931,9 @@ body.mob_or_tablet .image_crop_inner {
 	.top__title {
 		font-size: 48px;
 		margin-bottom: 30px;
+	}
+	.hesh__title {
+		font-size: 22px;
 	}
 
 	.indication__title {
