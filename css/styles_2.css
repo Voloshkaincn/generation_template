@@ -4847,6 +4847,7 @@ body.mob_or_tablet .image_crop_inner {
 .top__title {
 	font-weight: bold;
 	font-size: 78px;
+	color: #222;
 }
 
 .cards-subtitle {
@@ -4910,12 +4911,6 @@ body.mob_or_tablet .image_crop_inner {
 	text-transform: uppercase;
 }
 
-@media (max-width: 1600px) {
-	.top__title {
-		font-size: 58px;
-	}
-}
-
 @media (max-width: 1440px) {
 	.indication__title {
 		font-size: 44px;
@@ -4943,10 +4938,18 @@ body.mob_or_tablet .image_crop_inner {
 	.information {
 		flex-direction: column;
 	}
+	.information__content {
+		order: 2;
+	}
 	.information__img {
 		display: block;
 		margin: 0 auto;
 		margin-top: 20px;
+		order: 1;
+	}
+
+	.doctor__wrap {
+		margin-bottom: 30px;
 	}
 
 	.security {
@@ -5020,9 +5023,6 @@ body.mob_or_tablet .image_crop_inner {
 	}
 	.wrap__img {
 		padding: 0;
-	}
-	.doctor__img {
-		max-height: 480px;
 	}
 
 	.indication__title {
