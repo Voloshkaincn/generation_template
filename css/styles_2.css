@@ -4850,6 +4850,14 @@ body.mob_or_tablet .image_crop_inner {
 	color: #222;
 }
 
+.hesh__title {
+	font-weight: bold;
+	font-size: 28px;
+	line-height: 100px;
+	text-transform: uppercase;
+	color: #D8E8EA;
+}
+
 .cards-subtitle {
 	font-weight: bold;
 	font-size: 20px;
