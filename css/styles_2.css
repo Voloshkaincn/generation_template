@@ -2779,7 +2779,8 @@ body.mob_or_tablet .image_crop_inner {
 	    padding: 10px 0;
 	}
 	.container {
-	    padding-top: 130px;
+		/* padding-top: 130px; */
+		padding-top: 70px;
 	}
 	.morph_images {
 	    height: 500px;
@@ -2794,7 +2795,7 @@ body.mob_or_tablet .image_crop_inner {
 	}
 	h2, .h2 {
 	    font-size: 54px;
-	    line-height: 60px;
+	    /* line-height: 60px; */
 	}
 	.video-info {
 	    padding-right: 80px;
@@ -4848,6 +4849,7 @@ body.mob_or_tablet .image_crop_inner {
 	font-weight: bold;
 	font-size: 78px;
 	color: #222;
+	margin-right: -2em;
 }
 
 .hesh__title {
@@ -4929,8 +4931,9 @@ body.mob_or_tablet .image_crop_inner {
 
 @media (max-width: 1240px) {
 	.top__title {
-		font-size: 48px;
+		font-size: 68px;
 		margin-bottom: 30px;
+		line-height: 60px;
 	}
 	.hesh__title {
 		font-size: 22px;
@@ -4945,6 +4948,10 @@ body.mob_or_tablet .image_crop_inner {
 }
 
 @media (max-width: 991px) {
+	.top__title {
+		font-size: 58px;
+		line-height: 50px;
+	}
 	.information {
 		flex-direction: column;
 	}
@@ -5002,6 +5009,7 @@ body.mob_or_tablet .image_crop_inner {
 	.top__title {
 		font-size: 38px;
 		text-align: center;
+		margin: 0;
 	}
 	.btn-empty {
 		display: block;
